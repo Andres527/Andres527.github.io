@@ -37,7 +37,7 @@
     .mensaje {
         top: 40%;
         width: 80%; /* Reduce el ancho del mensaje para dispositivos móviles */
-        font-size: 20px; /* Ajusta el tamaño de fuente para dispositivos móviles */
+        font-size: 22px; /* Ajusta el tamaño de fuente para dispositivos móviles */
     }
 }
 
